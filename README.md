@@ -105,10 +105,6 @@ MIT License
 
 Issue や Pull Request を歓迎します！
 
-## 👤 作者
-
-作成: Figma Make
-
 ## 📞 サポート
 
 問題が発生した場合は、[Issues](https://github.com/Rin-repo-sun/daily-output-habit-tracker/issues)で報告してください。
