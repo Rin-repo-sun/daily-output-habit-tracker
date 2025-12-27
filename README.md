@@ -6,8 +6,6 @@
 
 毎日のアウトプットを記録し、習慣化をサポートするWebアプリケーションです。
 
-![Daily Output Habit Tracker](https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=800&q=80)
-
 ## 🌟 特徴
 
 - **📅 カレンダービュー**: 月間カレンダーで過去のアウトプットを一目で確認
